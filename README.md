@@ -6,10 +6,10 @@ It is a public repo with details of camweara api details.
 
 - **Camweara API**
   ```
-  https://cdn.jsdelivr.net/gh/modakatech/camweara-api@v1/camweara-api.js
+  https://cdn.jsdelivr.net/gh/modakatech/camweara-api@latest/camweara-api.js
   ```
 
 - **Camweara Ring Sizer API**
   ```
-  https://cdn.jsdelivr.net/gh/modakatech/camweara-api@v1/camweara-ring-sizer-api.js
+  https://cdn.jsdelivr.net/gh/modakatech/camweara-api@latest/camweara-ring-sizer-api.js
   ```
